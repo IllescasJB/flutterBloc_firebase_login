@@ -1,6 +1,7 @@
 # login_firebase_bloc
 
 A new Flutter project.
+This project uses state managment bloc and firebase
 
 ## Getting Started
 
